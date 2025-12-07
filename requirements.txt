@@ -1,0 +1,21 @@
+# Requirements for VAE Image Generation Project
+# Author: Molla Samser
+# Website: https://rskworld.in
+# Email: help@rskworld.in, support@rskworld.in
+# Phone: +91 93305 39277
+# Designer & Tester: Rima Khatun
+
+torch>=1.9.0
+torchvision>=0.10.0
+numpy>=1.21.0
+matplotlib>=3.4.0
+Pillow>=8.3.0
+scikit-learn>=0.24.0
+jupyter>=1.0.0
+notebook>=6.4.0
+tensorboard>=2.7.0
+flask>=2.0.0
+flask-cors>=3.0.0
+onnx>=1.10.0
+pytest>=6.2.0
+
